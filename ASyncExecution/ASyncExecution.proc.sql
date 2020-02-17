@@ -15,7 +15,7 @@ AS
 		- 20200213@Billy:	Initial - [Redmine: #127620]
 
 	Developer's Notes:
-		- @@Query:				[REQUIRED]		- The content of message that will be send to ASync
+		- @Query:				[REQUIRED]		- The content of message that will be send to ASync
 		- @ConversationGroup:	[optional]		- The conversation group that the message will be in
 					<DEFAULT>	NULL			- The message will be in its own converstaion group.
 		- @Lifetime:			[optional]		- The dialog created will expired after this amount of seconds
