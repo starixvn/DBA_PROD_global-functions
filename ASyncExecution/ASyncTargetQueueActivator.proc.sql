@@ -85,4 +85,4 @@ ADD SIGNATURE TO OBJECT::async.ASyncTargetQueueActivator
 BY CERTIFICATE ASyncAccessCertificate
 WITH PASSWORD = 'W`=Q5GY*WJEm)M)>18#*axd)uJixBM}Q';
 GO
-/*<info serverAlias="DBDCHK-CheckDataDB" executers="" viewers="" isFunction="0" isNested="0"></info>*/
+/*<info serverAlias="DBDCHK-CheckDataDB,FPSMON-FPS_MONITOR" executers="" viewers="" isFunction="0" isNested="0"></info>*/
